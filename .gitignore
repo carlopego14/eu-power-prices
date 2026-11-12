@@ -1,0 +1,10 @@
+# Raw data from Ember (too large for GitHub: download it as described in README)
+data/
+
+# Power BI temporary and backup files
+*.pbix.bak
+~$*
+
+# Python
+__pycache__/
+*.pyc
