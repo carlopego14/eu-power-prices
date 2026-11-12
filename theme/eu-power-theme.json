@@ -1,0 +1,44 @@
+{
+  "name": "EU Power Prices",
+  "dataColors": [
+    "#6C8EBF",
+    "#3D4A5C",
+    "#C8553D",
+    "#D9A441",
+    "#8E9AAF",
+    "#2E7D6B",
+    "#B0B7C3",
+    "#7A5C61"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#C8553D",
+  "good": "#2E7D6B",
+  "neutral": "#D9A441",
+  "bad": "#C8553D",
+  "maximum": "#C8553D",
+  "center": "#F2E6D8",
+  "minimum": "#6C8EBF",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 26,
+      "color": "#252423"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#252423"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#252423"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#4A5568"
+    }
+  }
+}
